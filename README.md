@@ -125,6 +125,7 @@ Test passed (error correctly handled)
 ---
 
 ## Skills Practiced
+
 - API Testing
 - Postman
 - Manual Testing
@@ -148,6 +149,6 @@ Test passed (error correctly handled)
 
 ## Author
 
-Tainara Lauschner
-QA Analyst in training
+Tainara Lauschner  
+QA Analyst in training  
 https://github.com/tainaralauschner
