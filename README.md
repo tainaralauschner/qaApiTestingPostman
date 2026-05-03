@@ -136,6 +136,16 @@ Test passed (error correctly handled)
 
 ---
 
+## Highlights
+
+- Created and executed API test scenarios using Postman
+- Implemented automated validation scripts (status, performance, data structure)
+- Designed and documented test cases (functional + negative scenarios)
+- Reported findings with structured bug reports and visual evidence
+- Simulated real QA workflow: planning → execution → validation → reporting
+
+---
+
 ## Author
 
 Tainara Lauschner
