@@ -8,6 +8,33 @@ The goal is to simulate real QA activities, ensuring that the API behaves correc
 
 ---
 
+## Business Context
+
+This project simulates the validation of a user management API.
+
+The tested endpoint returns a list of users, and the objective is to verify whether the API provides valid, consistent, and properly structured user data.
+
+The tests were designed to validate successful responses, data integrity, response performance, and error handling.
+
+---
+
+## Test Strategy
+
+The testing strategy includes:
+
+- Functional API testing
+- Status code validation
+- Response time validation
+- JSON structure validation
+- Data type validation
+- Required field validation
+- Negative testing
+- Evidence documentation
+
+The goal is to verify both expected behavior and error scenarios.
+
+---
+
 ## Tested API
 
 JSONPlaceholder API  
